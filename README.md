@@ -1,1 +1,1 @@
-# Projet_ML
+# Project for the course INFO-F422, to be run in jupyter notebook
